@@ -27,6 +27,12 @@ pinned: false
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" style="border-radius: 20px;"/>
 
+<br/><br/>
+
+### 🌐 LIVE DEMO
+[![LAUNCH APP](https://img.shields.io/badge/🚀_LAUNCH_SENTRA_AI-LIVE_NOW-00ffc8?style=for-the-badge&logoColor=black)](https://huggingface.co/spaces/anantmalik125/Sentra-AI-chatbot)
+[![HUGGING FACE](https://img.shields.io/badge/🤗_HuggingFace-Space-FFD21E?style=for-the-badge)](https://huggingface.co/spaces/anantmalik125/Sentra-AI-chatbot)
+
 </div>
 
 ---
